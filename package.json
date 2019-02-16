@@ -9,6 +9,10 @@
   "author": "Daniel Puerta",
   "license": "MIT",
   "dependencies": {
-    "strftime": "^0.10.0"
+    "concat-stream": "^2.0.0",
+    "request": "^2.88.0",
+    "split": "^1.0.1",
+    "strftime": "^0.10.0",
+    "websocket-stream": "^5.1.2"
   }
 }
